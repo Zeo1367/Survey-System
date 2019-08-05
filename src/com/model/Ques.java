@@ -3,6 +3,7 @@ package com.model;
 public class Ques {
 	int id,surveyId,type;
 	String text,ch1,ch2,ch3,ch4;
+
 	public int getId() {
 		return id;
 	}
